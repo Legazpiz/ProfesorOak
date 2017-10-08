@@ -1,5 +1,5 @@
 <?php
-    $config['telegram_bot_id'] = '201760961';
-    $config['telegram_bot_key'] = 'KEEP IT SECRET ;)';
-    $config['creator'] = '3458358';
+    $config['telegram_bot_id'] = 'profoakbrk_bot';
+    $config['telegram_bot_key'] = '420921457:AAECOnN4RW-JraGAT0ri3EhBtTvx1WthnU4';
+    $config['creator'] = 'RumbaR';
 ?>
