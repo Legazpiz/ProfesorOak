@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'Your MySQL Username here',
-	'password' => 'Your MySQL Password here',
-	'database' => 'Your MySQL Database here',
+	'hostname' => 'db4free.net"',
+	'username' => 'rumbar',
+	'password' => '791989',
+	'database' => 'profoakbrk',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
